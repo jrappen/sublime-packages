@@ -4,7 +4,7 @@
 	[
 		{
 			"name": "auto-dark",
-			"author": "Johannes Rappen (jrappen)",
+			"author": "jrappen",
 			"details": "https://github.com/jrappen/sublime-auto-dark",
 			"donate": "https://paypal.me/jrappen",
 			"labels":
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "distractionless",
-			"author": "Johannes Rappen (jrappen)",
+			"author": "jrappen",
 			"details": "https://github.com/jrappen/sublime-distractionless",
 			"donate": "https://paypal.me/jrappen",
 			"labels":
@@ -45,7 +45,7 @@
 		},
 		{
 			"name": "wkhtmltopdf",
-			"author": "Johannes Rappen (jrappen)",
+			"author": "jrappen",
 			"details": "https://github.com/jrappen/sublime-wkhtmltopdf",
 			"donate": "https://paypal.me/jrappen",
 			"labels":
