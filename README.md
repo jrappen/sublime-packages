@@ -15,7 +15,7 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 ## [`auto-dark`](https://github.com/jrappen/sublime-auto-dark)
 
 [![License](https://img.shields.io/github/license/jrappen/sublime-auto-dark.svg?style=flat-square)](https://github.com/jrappen/sublime-auto-dark/blob/master/LICENSE)
-[![Sublime Text minimum required version](https://img.shields.io/badge/ST-Build%204074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
+[![Sublime Text minimum required version](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/auto-dark.svg?style=flat-square)](https://packagecontrol.io/packages/auto-dark)
 [![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-auto-dark.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-auto-dark/tags)
 
@@ -28,7 +28,7 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 ## [`distractionless`](https://github.com/jrappen/sublime-distractionless)
 
 [![License](https://img.shields.io/github/license/jrappen/sublime-distractionless.svg?style=flat-square)](https://github.com/jrappen/sublime-distractionless/blob/master/LICENSE)
-[![Sublime Text minimum required version](https://img.shields.io/badge/ST-Build%204074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
+[![Sublime Text minimum required version](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/distractionless.svg?style=flat-square)](https://packagecontrol.io/packages/distractionless)
 [![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-distractionless.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-distractionless/tags)
 
@@ -41,7 +41,7 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 ## [`wkhtmltopdf`](https://github.com/jrappen/sublime-wkhtmltopdf)
 
 [![License](https://img.shields.io/github/license/jrappen/sublime-wkhtmltopdf.svg?style=flat-square)](https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/LICENSE)
-[![Sublime Text minimum required version](https://img.shields.io/badge/ST-Build%204074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
+[![Sublime Text minimum required version](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/wkhtmltopdf.svg?style=flat-square)](https://packagecontrol.io/packages/wkhtmltopdf)
 [![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-wkhtmltopdf.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-wkhtmltopdf/tags)
 
