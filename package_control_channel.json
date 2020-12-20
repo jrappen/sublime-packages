@@ -1,0 +1,67 @@
+{
+	"schema_version": "3.0.0",
+	"packages":
+	[
+		{
+			"name": "auto-dark",
+			"author": "Johannes Rappen (jrappen)",
+			"details": "https://github.com/jrappen/sublime-auto-dark",
+			"donate": "https://paypal.me/jrappen",
+			"labels":
+			[
+				"adaptive",
+				"automation",
+				"color scheme",
+				"dark mode",
+				"utilities"
+			],
+			"releases":
+			[
+				{
+					"sublime_text": ">=4074",
+					"platforms": ["osx", "windows"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "distractionless",
+			"author": "Johannes Rappen (jrappen)",
+			"details": "https://github.com/jrappen/sublime-distractionless",
+			"donate": "https://paypal.me/jrappen",
+			"labels":
+			[
+				"automation",
+				"distraction-free",
+				"fullscreen"
+			],
+			"releases":
+			[
+				{
+					"sublime_text": ">=4074",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "wkhtmltopdf",
+			"author": "Johannes Rappen (jrappen)",
+			"details": "https://github.com/jrappen/sublime-wkhtmltopdf",
+			"donate": "https://paypal.me/jrappen",
+			"labels":
+			[
+				"html",
+				"pdf",
+				"utilities",
+				"utils"
+			],
+			"releases":
+			[
+				{
+					"sublime_text": ">=4074",
+					"tags": true
+				}
+			]
+		}
+	]
+}

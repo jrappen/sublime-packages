@@ -1,0 +1,12 @@
+# macOS
+
+.DS_Store
+Thumbs.db
+
+# Windows
+
+[Dd]esktop.ini
+
+# Sublime Text
+
+*.sublime-workspace
