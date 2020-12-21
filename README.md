@@ -3,8 +3,8 @@
 
 # My packages on Package Control
 
-[![Downloads Package Control](https://img.shields.io/badge/Package%20Control-jrappen-blue.svg?style=flat-square)](https://packagecontrol.io/browse/authors/jrappen)
 [![SublimeHQ Discord](https://img.shields.io/discord/280102180189634562?label=SublimeHQ%20Discord&logo=discord&style=flat-square)](https://discord.gg/D43Pecu)
+[![Downloads Package Control](https://img.shields.io/badge/Package%20Control-jrappen-blue.svg?style=flat-square)](https://packagecontrol.io/browse/authors/jrappen)
 
 This repository hosts a **private channel file** for my [Sublime Text](https://www.sublimetext.com) packages on [Package Control](https://packagecontrol.io):
 
