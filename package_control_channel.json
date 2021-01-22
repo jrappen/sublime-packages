@@ -3,28 +3,6 @@
 	"packages":
 	[
 		{
-			"name": "auto-dark",
-			"author": "jrappen",
-			"details": "https://github.com/jrappen/sublime-auto-dark",
-			"donate": "https://paypal.me/jrappen",
-			"labels":
-			[
-				"adaptive",
-				"automation",
-				"color scheme",
-				"dark mode",
-				"utilities"
-			],
-			"releases":
-			[
-				{
-					"sublime_text": ">=4074",
-					"platforms": ["osx", "windows"],
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "distractionless",
 			"author": "jrappen",
 			"details": "https://github.com/jrappen/sublime-distractionless",
