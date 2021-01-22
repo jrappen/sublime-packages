@@ -8,22 +8,8 @@
 
 This repository hosts a **private channel file** for my [Sublime Text](https://www.sublimetext.com) packages on [Package Control](https://packagecontrol.io):
 
-* [`auto-dark`](#auto-dark)
 * [`distractionless`](#distractionless)
 * [`wkhtmltopdf`](#wkhtmltopdf)
-
-## [`auto-dark`](https://github.com/jrappen/sublime-auto-dark)
-
-[![License](https://img.shields.io/github/license/jrappen/sublime-auto-dark.svg?style=flat-square)](https://github.com/jrappen/sublime-auto-dark/blob/master/LICENSE)
-[![Sublime Text minimum required version](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
-[![Downloads Package Control](https://img.shields.io/packagecontrol/dt/auto-dark.svg?style=flat-square)](https://packagecontrol.io/packages/auto-dark)
-[![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-auto-dark.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-auto-dark/tags)
-
-* Source: <https://github.com/jrappen/sublime-auto-dark>
-* Description: Automatic dark mode, switches your Sublime Color Schemes according to your OS's appearance.
-* Documentation:
-    * English: <https://github.com/jrappen/sublime-auto-dark/blob/master/docs/en/README.md>
-    * German: <https://github.com/jrappen/sublime-auto-dark/blob/master/docs/de/README.md>
 
 ## [`distractionless`](https://github.com/jrappen/sublime-distractionless)
 
