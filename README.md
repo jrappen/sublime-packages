@@ -18,11 +18,11 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/distractionless.svg?style=flat-square)](https://packagecontrol.io/packages/distractionless)
 [![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-distractionless.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-distractionless/tags)
 
-* Source: <https://github.com/jrappen/sublime-distractionless>
+* Source: [jrappen/sublime-distractionless](https://github.com/jrappen/sublime-distractionless)
 * Description: Automatic windowed distraction free mode while editing in Sublime Text.
 * Documentation:
-    * English: <https://github.com/jrappen/sublime-distractionless/blob/master/docs/en/README.md>
-    * German: <https://github.com/jrappen/sublime-distractionless/blob/master/docs/de/README.md>
+    * [English](https://github.com/jrappen/sublime-distractionless/blob/master/docs/en/README.md)
+    * [German (Deutsch)](https://github.com/jrappen/sublime-distractionless/blob/master/docs/de/README.md)
 
 ## [`wkhtmltopdf`](https://github.com/jrappen/sublime-wkhtmltopdf)
 
@@ -31,8 +31,8 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/wkhtmltopdf.svg?style=flat-square)](https://packagecontrol.io/packages/wkhtmltopdf)
 [![Latest tag](https://img.shields.io/github/tag/jrappen/sublime-wkhtmltopdf.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-wkhtmltopdf/tags)
 
-* Source: <https://github.com/jrappen/sublime-wkhtmltopdf>
+* Source: [jrappen/sublime-wkhtmltopdf](https://github.com/jrappen/sublime-wkhtmltopdf)
 * Description: Convert HTML to PDF via wkhtmltopdf in Sublime Text.
 * Documentation:
-    * English: <https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/docs/en/README.md>
-    * German: <https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/docs/de/README.md>
+    * [English](https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/docs/en/README.md)
+    * [German (Deutsch)](https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/docs/de/README.md)
