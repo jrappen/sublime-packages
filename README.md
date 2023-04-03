@@ -10,8 +10,3 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
   [![Sublime Text minimum required Build](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
   [![Total downloads on Package Control](https://img.shields.io/packagecontrol/dt/distractionless.svg?style=flat-square)](https://packagecontrol.io/packages/distractionless)
   [![Latest git tag](https://img.shields.io/github/tag/jrappen/sublime-distractionless.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-distractionless/tags)
-* [`wkhtmltopdf`](https://github.com/jrappen/sublime-wkhtmltopdf)
-  [![License](https://img.shields.io/github/license/jrappen/sublime-wkhtmltopdf.svg?style=flat-square)](https://github.com/jrappen/sublime-wkhtmltopdf/blob/master/LICENSE)
-  [![Sublime Text minimum required Build](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
-  [![Total downloads on Package Control](https://img.shields.io/packagecontrol/dt/wkhtmltopdf.svg?style=flat-square)](https://packagecontrol.io/packages/wkhtmltopdf)
-  [![Latest git tag](https://img.shields.io/github/tag/jrappen/sublime-wkhtmltopdf.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-wkhtmltopdf/tags)
