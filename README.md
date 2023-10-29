@@ -7,6 +7,6 @@ This repository hosts a **private channel file** for my [Sublime Text](https://w
 
 * [`distractionless`](https://github.com/jrappen/sublime-distractionless)
   [![License](https://img.shields.io/github/license/jrappen/sublime-distractionless.svg?style=flat-square)](https://github.com/jrappen/sublime-distractionless/blob/master/LICENSE)
-  [![Sublime Text minimum required Build](https://img.shields.io/badge/ST-4074+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
+  [![Sublime Text minimum required Build](https://img.shields.io/badge/ST-4081+-orange.svg?style=flat-square&logo=sublime-text)](https://www.sublimetext.com)
   [![Total downloads on Package Control](https://img.shields.io/packagecontrol/dt/distractionless.svg?style=flat-square)](https://packagecontrol.io/packages/distractionless)
   [![Latest git tag](https://img.shields.io/github/tag/jrappen/sublime-distractionless.svg?style=flat-square&logo=github)](https://github.com/jrappen/sublime-distractionless/tags)
